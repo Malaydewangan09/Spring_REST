@@ -11,3 +11,4 @@ Includes :
 - SPRING MULTIPLE PROFILES <br />
 - DATA VALIDATION <br />
 - LOMBOK <br />
+- YAML CONFIG.
