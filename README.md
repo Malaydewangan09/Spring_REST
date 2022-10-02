@@ -5,6 +5,7 @@
 Includes :
 
 - LOGGERS <br />
+- UNIT TESTING
 - ACTUATORS  <br />
 - MYSQL DB  <br />
 - SPRING MULTIPLE PROFILES <br />
