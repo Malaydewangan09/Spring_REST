@@ -1,12 +1,12 @@
 # Spring_REST
 
-## Spring project to demonstrate REST API'S with CRUD operations .##
+## Spring project to demonstrate REST API'S with CRUD operations .
 
 Includes :
 
-LOGGERS <br />
-ACTUATORS  <br />
-MYSQL DB  <br />
-SPRING MULTIPLE PROFILES <br />
-DATA VALIDATION <br />
-LOMBOK <br />
+- LOGGERS <br />
+- ACTUATORS  <br />
+- MYSQL DB  <br />
+- SPRING MULTIPLE PROFILES <br />
+- DATA VALIDATION <br />
+- LOMBOK <br />
